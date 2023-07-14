@@ -12,8 +12,6 @@ For better understanding of project, read the files in the following order:
 3. defog_train.ipynb
 4. parkinson-submission.ipynb
 
------
-
 ### Data
 -----
 1. Data is in time series.
