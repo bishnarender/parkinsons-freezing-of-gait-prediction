@@ -1,5 +1,7 @@
 ## parkinsons-freezing-of-gait-prediction
 ## score at 2nd position is achieved.
+![parkinson_submission](https://github.com/bishnarender/parkinsons-freezing-of-gait-prediction/assets/49610834/6220f149-fc71-4820-9cc1-7f3d57b7df7f)
+
 
 -----
 
@@ -51,3 +53,4 @@ For better understanding of project, read the files in the following order:
 1. The model has two important parameters: patch size and sequence length. 864 is sequence length for the transformer.
 2. The transformer encoder is to classify events (StartHesitation, Turn or Walking?), and LSTM part provides continuous communication between neighboring tokens.
 
+![model](https://github.com/bishnarender/parkinsons-freezing-of-gait-prediction/assets/49610834/8c193f4e-807e-4ead-90a0-c3ca4ce96026)
